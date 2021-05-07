@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cI0r7RubXVlRjIKOXcYC8B3Yo5IYQl3xRfXWLJe/e2Csr08WYtJI37CRhB7CpT0u7iu9K4u8SIcv76qEEwPgmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samet UCA\\source\\repos\\MvcDemo\\MvcDemo.Facade\\MvcDemo.Facade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samet UCA\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

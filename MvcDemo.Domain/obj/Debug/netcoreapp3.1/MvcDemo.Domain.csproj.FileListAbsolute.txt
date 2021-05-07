@@ -1,0 +1,12 @@
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\bin\Debug\netcoreapp3.1\MvcDemo.Domain.deps.json
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\bin\Debug\netcoreapp3.1\MvcDemo.Domain.dll
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\bin\Debug\netcoreapp3.1\MvcDemo.Domain.pdb
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\obj\Debug\netcoreapp3.1\MvcDemo.Domain.csprojAssemblyReference.cache
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\obj\Debug\netcoreapp3.1\MvcDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\obj\Debug\netcoreapp3.1\MvcDemo.Domain.AssemblyInfo.cs
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\obj\Debug\netcoreapp3.1\MvcDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\obj\Debug\netcoreapp3.1\MvcDemo.Domain.dll
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\obj\Debug\netcoreapp3.1\MvcDemo.Domain.pdb
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\bin\Debug\netcoreapp3.1\MvcDemo.Domain.runtimeconfig.json
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\bin\Debug\netcoreapp3.1\MvcDemo.Domain.runtimeconfig.dev.json
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\obj\Debug\netcoreapp3.1\MvcDemo.Domain.genruntimeconfig.cache
