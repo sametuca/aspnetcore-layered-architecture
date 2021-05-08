@@ -5,7 +5,6 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MvcDemo.Domain.Entities
 {
-    [Table("About", Schema = "Test")]
     public class About : BaseEntity,IEntity
     {
         [StringLength(500)]

@@ -17,7 +17,7 @@ namespace MvcDemo.Domain.Entities
         public string Mail { get; set; }
         [StringLength(20)]
         public string Password { get; set; }
-        public ICollection<Heading> Headings { get; set; } // Bir yazarın birden fazla başlığı olabilir
-        public ICollection<Content> Contents { get; set; } // Bir yazarın birden fazla içeriği  olabili
+        public ICollection<Heading> Headings { get; set; }
+        public ICollection<Content> Contents { get; set; }
     }
 }

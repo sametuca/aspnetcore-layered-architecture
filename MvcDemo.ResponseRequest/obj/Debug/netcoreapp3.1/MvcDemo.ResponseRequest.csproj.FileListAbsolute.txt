@@ -1,0 +1,4 @@
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.ResponseRequest\obj\Debug\netcoreapp3.1\MvcDemo.ResponseRequest.csprojAssemblyReference.cache
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.ResponseRequest\obj\Debug\netcoreapp3.1\MvcDemo.ResponseRequest.AssemblyInfoInputs.cache
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.ResponseRequest\obj\Debug\netcoreapp3.1\MvcDemo.ResponseRequest.AssemblyInfo.cs
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.ResponseRequest\obj\Debug\netcoreapp3.1\MvcDemo.ResponseRequest.csproj.CoreCompileInputs.cache

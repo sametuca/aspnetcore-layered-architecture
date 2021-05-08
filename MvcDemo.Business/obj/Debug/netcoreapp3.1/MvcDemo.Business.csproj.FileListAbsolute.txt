@@ -1,0 +1,8 @@
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Business\bin\Debug\netcoreapp3.1\MvcDemo.Business.deps.json
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Business\bin\Debug\netcoreapp3.1\MvcDemo.Business.dll
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Business\bin\Debug\netcoreapp3.1\MvcDemo.Business.pdb
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Business\obj\Debug\netcoreapp3.1\MvcDemo.Business.AssemblyInfoInputs.cache
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Business\obj\Debug\netcoreapp3.1\MvcDemo.Business.AssemblyInfo.cs
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Business\obj\Debug\netcoreapp3.1\MvcDemo.Business.csproj.CoreCompileInputs.cache
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Business\obj\Debug\netcoreapp3.1\MvcDemo.Business.dll
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Business\obj\Debug\netcoreapp3.1\MvcDemo.Business.pdb

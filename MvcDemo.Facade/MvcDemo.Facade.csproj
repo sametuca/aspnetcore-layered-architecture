@@ -10,4 +10,8 @@
     <None Remove="NewFolder\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MvcDemo.ResponseRequest\MvcDemo.ResponseRequest.csproj" />
+  </ItemGroup>
+
 </Project>

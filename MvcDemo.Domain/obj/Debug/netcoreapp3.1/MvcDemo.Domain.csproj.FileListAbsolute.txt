@@ -10,3 +10,6 @@ C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\obj\Debug\netcoreapp3.1\M
 C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\bin\Debug\netcoreapp3.1\MvcDemo.Domain.runtimeconfig.json
 C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\bin\Debug\netcoreapp3.1\MvcDemo.Domain.runtimeconfig.dev.json
 C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\obj\Debug\netcoreapp3.1\MvcDemo.Domain.genruntimeconfig.cache
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\bin\Debug\netcoreapp3.1\MvcDemo.Core.dll
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\bin\Debug\netcoreapp3.1\MvcDemo.Core.pdb
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Domain\obj\Debug\netcoreapp3.1\MvcDemo.Domain.csproj.CopyComplete

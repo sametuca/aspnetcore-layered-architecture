@@ -11,10 +11,10 @@ namespace MvcDemo.Domain.Entities
         [StringLength(50)]
         public string Name { get; set; }
         public DateTime Date { get; set; }
-        public int CategoryId { get; set; } //İlişkili tablonun anahtar sütunu ile ayni isimde olacak!!! (İlişkili sınıf Category tablosu, en çok hata alınabilen alan)
-        public virtual Category Category { get; set; } //Bir sınıftan değer alacak
+        public int CategoryId { get; set; } 
+        public virtual Category Category { get; set; } 
         public int WriterId { get; set; }
         public virtual Writer Writer { get; set; }
-        public ICollection<Content> Contents { get; set; } //Başlık alanı (Heading) da içerik alanı(content) ile ilişkili
+        public ICollection<Content> Contents { get; set; } 
     }
 }

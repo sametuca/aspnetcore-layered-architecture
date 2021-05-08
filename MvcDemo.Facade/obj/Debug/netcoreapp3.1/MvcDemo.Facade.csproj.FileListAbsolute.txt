@@ -1,0 +1,4 @@
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Facade\obj\Debug\netcoreapp3.1\MvcDemo.Facade.csprojAssemblyReference.cache
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Facade\obj\Debug\netcoreapp3.1\MvcDemo.Facade.AssemblyInfoInputs.cache
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Facade\obj\Debug\netcoreapp3.1\MvcDemo.Facade.AssemblyInfo.cs
+C:\Users\Samet UCA\source\repos\MvcDemo\MvcDemo.Facade\obj\Debug\netcoreapp3.1\MvcDemo.Facade.csproj.CoreCompileInputs.cache
